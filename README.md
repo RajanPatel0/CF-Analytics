@@ -157,6 +157,6 @@ MONGODB_URI = your_connection_string_here
 
 ## Demo
 
-> Live deployment: `YOUR_VERCEL_URL_HERE`
+> Live deployment: https://cf-analytics-seven.vercel.app
 
 To try it: open the `/demo.html` page on the deployed URL, interact with the mock store, then visit `/dashboard` to watch your session appear.
